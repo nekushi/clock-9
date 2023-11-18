@@ -3,7 +3,7 @@ body {
     background: linear-gradient(to bottom, #ff7e5f, #2b58b6);
     display: grid;
     place-items: center;
-    height: 100svh;
+    height: 100dvh;
     overflow: hidden;
 }
 .container {
